@@ -2,7 +2,7 @@
 
 This Project contains two implementations of the **Shunting Yard algorithm** and a **Reverse Polish Notation (RPN) calculator**, one written in Elixir and one written in Go applying functional style.
 
-The project demonstrates a clean separation between lexical analysis (tokenization), syntactic transformation (Shunting Yard), and expression evaluation (RPN).
+Implementing this task involves three main steps:  lexical analysis (tokenization), syntactic transformation (Shunting Yard), and expression evaluation (RPN).
 It is intended as a learning project and as a comparison example for functional programming concepts.
 
 ---
