@@ -97,10 +97,10 @@ The algorithm processes the input **from left to right** and uses two main data 
 The algorithm operates on a token stream produced by a tokenizer.
 Supported token types are:
 
-* Numbers: `{:num, value}`
-* Binary operators: `{:op, +}`, `{:op, -}`, `{:op, *}`, `{:op, /}`
-* Left parenthesis: `(`
-* Right parenthesis: `)`
+* Numbers
+* Binary operators (`+`, `-`, `*`, `/`)
+* Left parenthesis (`(`)
+* Right parenthesis (`)`)
 
 ---
 
